@@ -1,4 +1,4 @@
 EasyCall - A Simple Video Conference
 
 
-Link: <a href="easycallvideo.vercel.app">easycallvideo.vercel.app</a>
+Link: <a href="https://easycallvideo.vercel.app">easycallvideo.vercel.app</a>
